@@ -10,7 +10,7 @@
 
 Valores True
 
-Todos os outor diferentes dos valores do Falsy anotados acima.
+Todos os outro diferentes dos valores do Falsy anotados acima.
 
 -------------------------------
 
